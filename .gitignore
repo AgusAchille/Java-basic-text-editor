@@ -1,0 +1,7 @@
+#Ignorar archivos de Eclipse
+.metadata/*
+.recommenders/*
+*/.settings/*
+*/bin/*
+/.metadata/
+/.recommenders/
